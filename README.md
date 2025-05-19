@@ -34,3 +34,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshiet16&show_icons=true&locale=en&layout=compact" alt="harshiet16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshiet16&" alt="harshiet16" /></p>
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshiet16/harshiet16/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshiet16/harshiet16/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/harshiet16/harshiet16/output/github-snake.svg" />
+</picture>
