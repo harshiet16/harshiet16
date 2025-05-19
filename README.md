@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Pandey</h1>
 <h3 align="center">I am Computer Science and Engineering final year student at Institute of Engineering and Technology (IET), Lucknow</h3>
 
+<p align="left"> As a dedicated Full-Stack Developer, I specialize in creating scalable, high-performance web applications using a diverse tech stack that includes the MERN stack (MongoDB, Express, React, Node.js), Spring Boot, and PostgreSQL. I thrive on solving complex challenges, from building user-friendly interfaces to architecting powerful backend systems. My experience covers a range of applications, from dynamic platforms to comprehensive tracking and management systems, all with a focus on optimizing performance and enhancing user experiences. Always eager to learn and grow, I’m passionate about contributing to the open-source community and collaborating on innovative projects that drive technological advancement.</p>
+
+
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/programming-crazy-hard-typing-animation-dz0h9gpwght2nl4t.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshiet16&label=Profile%20views&color=0e75b6&style=flat" alt="harshiet16" /> </p>
